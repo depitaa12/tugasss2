@@ -1,0 +1,14 @@
+        .hero {
+            background-image: url('gmbar 1.jpg');
+            background-size: cover;
+            background-position: center;
+            min-height: 50vh;
+        }
+
+        .overlay {
+            background-color: rgba(0, 0, 0, 0.5);
+            min-height: 60vh;
+        }
+        .img {
+            max-width: 60px;
+        }
